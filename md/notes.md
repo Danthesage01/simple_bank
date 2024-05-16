@@ -1,0 +1,1 @@
+https://github.com/techschool/simplebank/blob/master/db/migration/000001_init_schema.down.sql
